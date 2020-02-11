@@ -1,0 +1,2 @@
+# DiveintoDeeplearning_notebook
+personal notebooks
